@@ -1,0 +1,8 @@
+A função de teste unitário deve receber uma string no padrão: "char:inteiro".
+Char pode ser minuscula ou maiúscula, e vai de 'a' até 'e', e representa o comando.
+O valor inteiro é do tipo signed int, e representa a carga contida em cada comando.
+
+A função de teste unitário soma o novo valor recebido com o valor anterior e envia pelo UART,
+de acordo com o comando enviado (de 'a' até 'd').
+
+link para simulação: https://wokwi.com/projects/392664088673402881

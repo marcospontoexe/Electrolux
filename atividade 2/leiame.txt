@@ -1,4 +1,10 @@
-simule a atividade proposta atraves do link:
+simule a atividade proposta atraves do link: https://wokwi.com/projects/392546996334125057
 
-https://wokwi.com/projects/392546996334125057
+O hardware dispoem de três leds:
+Vermelho representa o estado off.
+Verde representa o estado on.
+Amarelo representa o estado protegido.
+
+Caso ocorra algum erro na transição de estado, os leds piscaram em sequência mostrando que ocorreu 
+um erro no firmware.
 
